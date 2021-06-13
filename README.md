@@ -1,7 +1,7 @@
 
 <h1 align="center">Vaishnavi Vaishnav</h1>
 <hr/>
-<h2 align="center">Contact Me</h2>
+<!-- <h2 align="center">Contact Me</h2> -->
 <!--<p align="center">
   <a href="https://twitter.com/anubhav9199" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-@Anubhav_Sharma-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/anubhav9199" alt="anubhavsharma430" height="30" width="150" /></a>
   &nbsp; &nbsp;
@@ -92,16 +92,16 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Maker*** , A ***work-o-hil
 <hr/>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" width=800 src="https://github-profile-trophy.vercel.app/?username=anubhavsharma430&column=7"/>
+    <img align="center" width=800 src="https://github-profile-trophy.vercel.app/?username=vaishnavi-vaishnav&column=7"/>
   </a>
 </p>
 <hr/>
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anubhavsharma430&show_icons=true" alt="anubhavsharma430">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavsharma430&layout=compact&hide=html" alt="anubhavsharma430" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-vaishnav&show_icons=true" alt="vaishnavi-vaishnav">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-vaishnav&layout=compact&hide=html" alt="vaishnavi-vaishnav" />
 </p>
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=anubhavsharma430" alt="anubhavsharma430" />
+  <img src="https://komarev.com/ghpvc/?username=vaishnavi-vaishnav" alt="vaishnavi-vaishnav" />
   <br/>
-  <img src="https://profile-counter.glitch.me/anubhavsharma430/count.svg" alt="anubhavsharma430" />
+  <img src="https://profile-counter.glitch.me/vaishnavi-vaishnav/count.svg" alt="vaishnavi-vaishnav" />
 </p>
