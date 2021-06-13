@@ -1,8 +1,8 @@
 
-<h1 align="center">Anubhav Sharma</h1>
+<h1 align="center">Vaishnavi Vaishnav</h1>
 <hr/>
 <h2 align="center">Contact Me</h2>
-<p align="center">
+<!--<p align="center">
   <a href="https://twitter.com/anubhav9199" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-@Anubhav_Sharma-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/anubhav9199" alt="anubhavsharma430" height="30" width="150" /></a>
   &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/anubhav-sharma-as/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubhav-sharma-as/" alt="anubhavsharma430" height="30" width="150" /></a>
@@ -17,7 +17,8 @@
   <br/>
   <br/>
   <a href="https://dev.to/anubhavsharma" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-rgb(0,0,0)?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/anubhavsharma/" alt="anubhavsharma430" height="30" width="150" /></a>
-</p>
+</p>  -->  
+<!--
 <hr/>
 <h2 align="center">My Work</h2>
 <p align="center">
@@ -25,11 +26,12 @@
   &nbsp; &nbsp;
   <a href="https://stackoverflow.com/users/13104627/anubhav-sharma/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-rgb(239,130,54)?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/13104627/anubhav-sharma/" alt="%22anubhavsharma430" height="30" width="150" /></a>
 </p>
+-->
 
 ---
 ## Heya Tech Geeks 👋,           
-I'm Anubhav Sharma, Student at 👨‍💻 JECRC University Pursuing **B.Tech**. in **Computer Science and Engineering**.<br/>
-I am ***Machine Learning*** Enthusiast.<br/>
+I'm Vaishnavi Vaishnav, Student at 👨‍💻 JECRC University Pursuing **B.Tech**. in **Computer Science and Engineering**.<br/>
+I am ***Web Developer*** Enthusiast.<br/>
 I like to fix bugs whether technical or personal.<br/>
 I am a student developer love to spend time with techy stuff and exploring new things and people.<br/>
 Basically I'm a **chef coder** who create algorithms from scratch and also cook delicious food stuffs.<br/>
@@ -57,7 +59,7 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Maker*** , A ***work-o-hil
 # Hello World!! 🤔
 - 💬 Ask me about **anything** and **everything**!
 - 💬 Share me **Problem**(Presonal or Technical) for solution!
-- 📫 How to reach me: message me at [Whatsapp](https://wa.me/918824897845)
+- 📫 How to reach me: message me at [Whatsapp](https://wa.me/919460062371)
 - ⚡ Fun fact: I love meeting new people and learning from them , doesn't matter younger or older then me 
 - 💬 Ping Me about #AI (Paradise where i live), **#Python**, **#Machine_Learning**, **#Deep_Learning**, **#Data_Science**, **#Neural_Networks**, **#Computer_Vision**, **#Natural_Language_Processing** and **anything** you like.
 ---
