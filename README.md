@@ -5,20 +5,24 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/vaishnavi-vaishnav-2016961b9/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Vaishnavi_Vaishnav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaishnavi-vaishnav-2016961b9/" alt="vaishnavi-vaishnav" height="30" width="150" /></a>
   &nbsp; &nbsp;
-   <a href="mailto:vaishnavivaishnav0000@gmail.com" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Vaishnavi_Vaishnav-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vaishnavivaishnav0000.com" alt="vaishnavi-vaishnav" height="30" width="150" /></a>
+   <a href="mailto:vaishnavivaishnav0000@gmail.com" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Vaishnavi_Vaishnav-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vaishnavivaishnav0000.com" alt="vaishnavi-vaishnav" height="30" width="150" />
+	</a>
   &nbsp; &nbsp;
-  
- 
-  <a href="https://twitter.com/Webo_Tech" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Vaishnavi_Vaishnav-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Webo_Tech" alt="vaishnavi-vaishnav" height="30" width="150" /></a>
+  <a href="https://twitter.com/Webo_Tech" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Vaishnavi_Vaishnav-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Webo_Tech" alt="vaishnavi-vaishnav" height="30" width="150" />
+	</a>
   &nbsp; &nbsp;
-  <a href="https://www.instagram.com/nerd.coder/" target="blank" align="center"><img align="center" src="http://img.shields.io/badge/-Vaishnavi_Vaishnav-rgb(255,105,180)?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/vaishnavi_27_july/" alt="vaishnavi-vaishnav" height="30" width="150" /></a>
+  <a href="https://www.instagram.com/nerd.coder/" target="blank" align="center"><img align="center" src="http://img.shields.io/badge/-Vaishnavi_Vaishnav-rgb(255,105,180)?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/vaishnavi_27_july/" alt="vaishnavi-vaishnav" height="30" width="150" />
+	</a>
   &nbsp; &nbsp;
+  <a href="https://wa.me/919460062371" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Vaishnavi_Vaishnav-rgb(77,194,71)?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/918824897845/" alt="vaishnavi-vaishnav" height="30" width="150" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://dev.to/vaishnavivaishnav" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Vaishnavi_Vaishnav-rgb(0,0,0)?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/vaishnavivaishnav" alt="vaishnavi-vaishnav" height="30" width="150" />
+	</a>
+</p>   
 <!--  <a href="https://www.facebook.com/anubhav9199/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Vaishnavi_Vaishnav-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/anubhav9199/" alt="vaishnavi-vaishnav" height="30" width="150" /></a>-->
  
-  <a href="https://wa.me/919460062371" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Vaishnavi_Vaishnav-rgb(77,194,71)?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/918824897845/" alt="vaishnavi-vaishnav" height="30" width="150" /></a>
  
-  <a href="https://dev.to/vaishnavivaishnav" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Vaishnavi_Vaishnav-rgb(0,0,0)?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/vaishnavivaishnav" alt="vaishnavi-vaishnav" height="30" width="150" /></a>
-</p>   
 
 <hr/>
 
