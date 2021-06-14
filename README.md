@@ -1,51 +1,42 @@
 
-<h1 align="center">Vaishnavi Vaishnav</h1>
+<h1 align="center">Hi 👋, I'm Vaishnavi Vaishnav</h1>
 <hr/>
-<!-- <h2 align="center">Contact Me</h2> -->
-<!--<p align="center">
-  <a href="https://twitter.com/anubhav9199" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-@Anubhav_Sharma-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/anubhav9199" alt="anubhavsharma430" height="30" width="150" /></a>
-  &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in/anubhav-sharma-as/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubhav-sharma-as/" alt="anubhavsharma430" height="30" width="150" /></a>
-  &nbsp; &nbsp;
-  <a href="mailto:anubhavsharma9199@gmail.com" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anubhavsharma9199@gmail.com" alt="anubhavsharma430" height="30" width="150" /></a><br/>
-  <br/>
-  <a href="https://www.instagram.com/_anubhav_._/" target="blank" align="center"><img align="center" src="http://img.shields.io/badge/-_anubhav_._-rgb(255,105,180)?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_anubhav_._" alt="anubhavsharma430" height="30" width="150" /></a>
-  &nbsp; &nbsp;
-  <a href="https://www.facebook.com/anubhav9199/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/anubhav9199/" alt="anubhavsharma430" height="30" width="150" /></a>
-  &nbsp; &nbsp;
-  <a href="https://wa.me/918824897845" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-rgb(77,194,71)?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/918824897845/" alt="anubhavsharma430" height="30" width="150" /></a>
-  <br/>
-  <br/>
-  <a href="https://dev.to/anubhavsharma" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-rgb(0,0,0)?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/anubhavsharma/" alt="anubhavsharma430" height="30" width="150" /></a>
-</p>  -->  
-<!--
-<hr/>
-<h2 align="center">My Work</h2>
+<h2 align="center">Contact with me:</h2>
 <p align="center">
-  <a href="https://www.kaggle.com/anubhavsharma/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-rgb(51,171,255)?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/anubhavsharma/"alt="%22anubhavsharma430" height="30" width="150" /></a>
+  <a href="https://www.linkedin.com/in/vaishnavi-vaishnav-2016961b9/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Vaishnavi_Vaishnav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaishnavi-vaishnav-2016961b9/" alt="vaishnavi-vaishnav" height="30" width="150" /></a>
   &nbsp; &nbsp;
-  <a href="https://stackoverflow.com/users/13104627/anubhav-sharma/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Anubhav_Sharma-rgb(239,130,54)?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/13104627/anubhav-sharma/" alt="%22anubhavsharma430" height="30" width="150" /></a>
-</p>
--->
+   <a href="mailto:vaishnavivaishnav0000@gmail.com" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Vaishnavi_Vaishnav-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vaishnavivaishnav0000.com" alt="vaishnavi-vaishnav" height="30" width="150" /></a>
+  &nbsp; &nbsp;
+  
+ 
+  <a href="https://twitter.com/Webo_Tech" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-@Vaishnavi_Vaishnav-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Webo_Tech" alt="vaishnavi-vaishnav" height="30" width="150" /></a><br/>
+  <br/>
+  <a href="https://www.instagram.com/vaishnavi_27_july/" target="blank" align="center"><img align="center" src="http://img.shields.io/badge/-Vaishnavi_Vaishnav-rgb(255,105,180)?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/vaishnavi_27_july/" alt="vaishnavi-vaishnav" height="30" width="150" /></a>
+  &nbsp; &nbsp;
+<!--  <a href="https://www.facebook.com/anubhav9199/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Vaishnavi_Vaishnav-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/anubhav9199/" alt="vaishnavi-vaishnav" height="30" width="150" /></a>-->
+ 
+  <a href="https://wa.me/919460062371" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Vaishnavi_Vaishnav-rgb(77,194,71)?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/918824897845/" alt="vaishnavi-vaishnav" height="30" width="150" /></a>
+  <br/>
+  <br/>
+  <a href="https://dev.to/vaishnavivaishnav" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Vaishnavi_Vaishnav-rgb(0,0,0)?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/vaishnavivaishnav" alt="vaishnavi-vaishnav" height="30" width="150" /></a>
+</p>   
+
+<hr/>
 
 ---
 ## Heya Tech Geeks 👋,           
-I'm Vaishnavi Vaishnav, Student at 👨‍💻 JECRC University Pursuing **B.Tech**. in **Computer Science and Engineering**.<br/>
+I'm Vaishnavi Vaishnav, Student at 👨‍💻 JECRC University Pursuing **B.Tech**. in **Computer Science and Engineering with specialization in AI & ML**.<br/>
 I am ***Web Developer*** Enthusiast.<br/>
 I like to fix bugs whether technical or personal.<br/>
 I am a student developer love to spend time with techy stuff and exploring new things and people.<br/>
-Basically I'm a **chef coder** who create algorithms from scratch and also cook delicious food stuffs.<br/>
-* A future **AI** expert...💭
-* **IOT** wonderer.....❤️
-* **Robotics** passion...😅
-* Watch over **Markets**.....
-* **Political** news are on mind🧐
-* Good at **editing** thing in new ***style***.....
 
-Currently working on AI and ML.<br/>
-Also Play with Data and work with **Images** and **Voice**.<br/>
+* 😅 Good at **editing** thing in new ***style***!
+* 💬 Ask me about **anything** and **everything**!
+* 💬 Share me **Problem**(Presonal or Technical) for solution!
+* 📫 How to reach me: message me at [Whatsapp](https://wa.me/919460062371)
+* ⚡ Fun fact: I love meeting new people and learning from them , doesn't matter younger or older then me... 
 
-A ***Data Analyst***, A ***Learner*** , An ***Amazing Maker*** , A ***work-o-hilic*** guy when it comes to technical.....🤔😉
+
 
 ## 🧐 About
 - 🔭 I am currently an Student at JECRC University.
@@ -56,6 +47,28 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Maker*** , A ***work-o-hil
 - ⚡ I’m currently Working over My Secret Project ***(#I_am_Iron_Man)***.
 - 👯 And Many More...
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<!--	<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> -->
+	<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+	<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+	<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+	<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<!--	<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>-->
+<!--	<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> -->
+	<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+	<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+	</a> 
+	<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+	<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+<!--	<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> -->
+<!--	<a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> -->
+	<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
+</p>
+
+<!--	<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
+	
 # Hello World!! 🤔
 - 💬 Ask me about **anything** and **everything**!
 - 💬 Share me **Problem**(Presonal or Technical) for solution!
@@ -64,7 +77,7 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Maker*** , A ***work-o-hil
 - 💬 Ping Me about #AI (Paradise where i live), **#Python**, **#Machine_Learning**, **#Deep_Learning**, **#Data_Science**, **#Neural_Networks**, **#Computer_Vision**, **#Natural_Language_Processing** and **anything** you like.
 ---
 
-<p align="center">
+<!--<p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   &nbsp;
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
@@ -88,7 +101,7 @@ A ***Data Analyst***, A ***Learner*** , An ***Amazing Maker*** , A ***work-o-hil
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   &nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</p>
+</p>-->
 <hr/>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
