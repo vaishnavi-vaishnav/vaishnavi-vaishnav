@@ -60,7 +60,7 @@ I am a student developer love to spend time with techy stuff and exploring new t
 * ⚡ Fun fact: I love meeting new people and learning from them , doesn't matter younger or older then me... 
 
 
-
+<!--
 ## 🧐 About
 - 🔭 I am currently an Student at JECRC University.
 - 🏄‍ Community guy who loves being involved in communities and help students grow.
@@ -73,7 +73,7 @@ I am a student developer love to spend time with techy stuff and exploring new t
 
 
 
-	
+<!--	
 # Hello World!! 🤔
 - 💬 Ask me about **anything** and **everything**!
 - 💬 Share me **Problem**(Presonal or Technical) for solution!
