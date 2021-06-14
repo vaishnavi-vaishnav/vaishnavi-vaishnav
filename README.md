@@ -17,10 +17,10 @@
   <a href="https://wa.me/919460062371" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Vaishnavi_Vaishnav-rgb(77,194,71)?style=flat-square&logo=WhatsApp&logoColor=white&link=https://wa.me/918824897845/" alt="vaishnavi-vaishnav" height="30" width="150" />
   </a>
   &nbsp; &nbsp;
-  <a href="https://dev.to/vaishnavivaishnav" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Vaishnavi_Vaishnav-rgb(0,0,0)?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/vaishnavivaishnav" alt="vaishnavi-vaishnav" height="30" width="150" />
-	</a>
+<!--  <a href="https://dev.to/vaishnavivaishnav" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Vaishnavi_Vaishnav-rgb(0,0,0)?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/vaishnavivaishnav" alt="vaishnavi-vaishnav" height="30" width="150" />
+	</a>-->
 </p>   
-<!--  <a href="https://www.facebook.com/anubhav9199/" target="blank" align="center"><img align="center" src="https://img.shields.io/badge/-Vaishnavi_Vaishnav-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/anubhav9199/" alt="vaishnavi-vaishnav" height="30" width="150" /></a>-->
+
  
  
 
