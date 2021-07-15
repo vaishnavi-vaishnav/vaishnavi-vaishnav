@@ -10,7 +10,7 @@
   
   
   
-  <h3 align="center"><samp> An Aspiring Front-End Web Developer, An Open Source Contributor, Graphic Designer and developer ☁</samp></h4></p>
+  <h3 align="center"><samp> An Aspiring Front-End Web Developer | An Open Source Contributor | Graphic Designer</samp></h4></p>
    
 
 <br>
