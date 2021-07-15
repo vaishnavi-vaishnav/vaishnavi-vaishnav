@@ -45,7 +45,7 @@
 
 </div>
 
-<hr>
+
 
 
 ![](https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png)
@@ -70,7 +70,7 @@
 - ⚡ <samp>Fun fact 2: I am kinda boring and sometimes dumb though, but I am quite determined, **focused** and happy-go-luck person.
 </div>
 
-<hr>
+
 <div align="center"><h2><b><samp>Skills | Languages | Tools</samp></b></h2></div>
 <div align="center">
 
@@ -86,14 +86,14 @@
 
 </div>
 
-<hr> 
+
 <div align="center">
   <h2> Spotify Playing 🎧</h2>
 
 ![Spotify](https://novatorem.vercel.app/api/spotify)
 </div>
 
-<hr>
+
 
 <div align="center">
 <h2>👷 GitHub Profile:</h2>
@@ -113,7 +113,7 @@
 
 </p>
 </div>
-<hr>
+
 <div align="center">
 
 
