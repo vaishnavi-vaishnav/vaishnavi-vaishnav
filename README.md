@@ -16,7 +16,7 @@
 <br>
 <div align="center">
 <a href="https://www.linkedin.com/in/vaishnavi-vaishnav/">
-  <img alt="Vaishnavi's Linkdein"  width="100%" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  <img alt="Vaishnavi's Linkdein"  width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/vaishnavi-vaishnav">
