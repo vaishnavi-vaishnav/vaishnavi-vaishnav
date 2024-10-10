@@ -1,6 +1,7 @@
 
 
    <img align="center" width="900" height = "400" src="GitHub%20Hello%20Gif.gif">
+   ![](https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png)
 <p align="center"><samp><b><strong> Hey there!</strong> 
    <img src="https://raw.githubusercontent.com/himanshusharma89/himanshusharma89/master/Hi.gif" width="25px">
 </b></samp></p>
