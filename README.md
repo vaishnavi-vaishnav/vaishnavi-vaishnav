@@ -95,9 +95,9 @@
 <div align="center">
   <h2><b><samp>GitHub Activity</samp></b></h2>
   <p>
-    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-vaishnav&show_icons=true&theme=react">
-    <img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi-vaishnav&theme=react" />
-    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-vaishnav&layout=compact&theme=react" />
+    <img height="130px" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-vaishnav&show_icons=true&theme=react">
+    <img height="130px" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi-vaishnav&theme=react" />
+    <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-vaishnav&layout=compact&theme=react" />
   </p>
 </div>
 
