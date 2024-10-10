@@ -16,7 +16,7 @@
 - 🤔 <samp>Writing code, teaching kids, smashing shuttlecocks—sometimes all at once</samp>
 - 🌱 <samp>Open source? Absolutely! I like to contribute while quietly questioning my life choices (just kidding, I love it). Always up for learning something new – even from a 10-year-old tech prodigy, because why not?</samp>
 - 🧩 <samp>Looking for a **contractual** or a **full-time gig**? Awesome. I can do serious work too, promise. You might even be impressed with how much I don’t break things on a daily basis.</samp>
-<br>
+
 
 <div align="center">
   <h2><b><samp>Skills | Languages | Tools</samp></b></h2>
