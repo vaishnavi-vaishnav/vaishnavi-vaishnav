@@ -136,7 +136,7 @@
     <img src="Icons/behance.svg" height="36" width="36" alt="behance logo"  />
   </a>
   <a href="https://medium.com/@vaishnavivaishnav00" target="_blank">
-    <img src="Icons/medium.svg" height="36" width="36" alt="medium logo"  />
+    <img src="Icons/Medium.svg" height="36" width="36" alt="medium logo"  />
   </a>
 
 
