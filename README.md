@@ -22,9 +22,9 @@
 - ⚡ <samp>Fun fact 1: I love meeting new people and learning from them, doesn't matter younger or older than me...</samp>
 - ⚡ <samp>Fun fact 2: I am kinda boring and sometimes dumb though, but I am quite determined, **focused** and a happy-go-lucky person.</samp>
 
-<div>
+<div align="center">
   <h2><b><samp>Skills | Languages | Tools</samp></b></h2>
-  <div align="left">
+  <div>
     <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
@@ -75,9 +75,9 @@
   </div>
 </div>
 
-<div>
+<div align="center">
   <h2><b><samp>Designing Tools</samp></b></h2>
-  <div align="left">
+  <div>
     <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo" />
@@ -90,28 +90,28 @@
   </div>
 </div>
 
-<div>
+<div align="center">
   <h2><b><samp>GitHub Profile</samp></b></h2>
   
   ![Vaishnavi's github trophy](https://github-profile-trophy.vercel.app/?username=vaishnavi-vaishnav&row=1)
 </div>
 
-<div>
+<div align="center">
   <h2><b><samp>GitHub Activity</samp></b></h2>
-  <p align="center">
+  <p>
     <img height="145px" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-vaishnav&show_icons=true&theme=react">
     <img height="145px" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi-vaishnav&theme=react" />
     <img height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-vaishnav&layout=compact&theme=react" />
   </p>
 </div>
 
-<img src="https://raw.githubusercontent.com/vaishnavi-vaishnav/vaishnavi-vaishnav/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/maurodesouza/profile-readme-generator/blob/main/public/assets/snake.svg" alt="Snake animation" width="100%" />
 
 <hr>
 
 <div align="center">
   <h3>
-    <b><samp>Let’s Connect! If you enjoy my work even a little, maybe think about treating me to a coffee or tea?<br> After all, caffeine fuels creativity! 🥺👉👈</samp></b>
+    <b><samp>Let’s Connect! If you enjoy my work even a little, maybe think about treating me to a coffee or tea?<br> <a href="" style="pointer-events: none">After all, caffeine fuels creativity!</a> 🥺👉👈</samp></b>
   </h3>
 
   <a href="https://www.linkedin.com/in/vaishnavi-vaishnav">
