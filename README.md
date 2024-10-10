@@ -10,17 +10,13 @@
 <img align="right" src="2.gif" width="30%"/>
 <br>
 
-- 👷 <samp>Student at 👨‍💻 JECRC University Pursuing B.Tech. in **Computer Science and Engineering** specialization in AI & ML with collaboration of **IBM**.</samp>
-- 👨‍💻 <samp>I am **Web Developer Enthusiast**.</samp>
-- 🤔 <samp>Exploring new technologies and developing software solutions and quick hacks.</samp>
-- 🌱 <samp>Open to all Open Source Projects😋.</samp>
-- 💼 <samp>I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles.</samp>
-- 🤔 <samp>I’m looking for help with how to excel in Competitive Programming.</samp>
-- ♟ <samp>I play a lot of **chess** & **badminton**.</samp>
-- 😅 <samp>Ask me about anything and everything!</samp>
-- 💬 <samp>Share me Problem(Personal or Technical) for solution!</samp>
-- ⚡ <samp>Fun fact 1: I love meeting new people and learning from them, doesn't matter younger or older than me...</samp>
-- ⚡ <samp>Fun fact 2: I am kinda boring and sometimes dumb though, but I am quite determined, **focused** and a happy-go-lucky person.</samp>
+- 🎓 <samp>**2024 graduate** from JECRC University with a B.Tech. in *Computer Science and Engineering*, specializing in AI & ML in collaboration with IBM.</samp>
+- 👨‍💻 <samp>Building systems that don’t break under pressure. You’re welcome.</samp>
+- ✨ <samp>Turning designs into pixel-perfect reality with code (and a little bit of magic)</samp>
+- 🤔 <samp>Writing code, teaching kids, smashing shuttlecocks—sometimes all at once</samp>
+- 🌱 <samp>Open source? Absolutely! I like to contribute while quietly questioning my life choices (just kidding, I love it). Always up for learning something new – even from a 10-year-old tech prodigy, because why not?</samp>
+- 🧩 <samp>Looking for a **contractual** or a **full-time gig**? Awesome. I can do serious work too, promise. You might even be impressed with how much I don’t break things on a daily basis.</samp>
+<br>
 
 <div align="center">
   <h2><b><samp>Skills | Languages | Tools</samp></b></h2>
@@ -133,7 +129,7 @@
     <img src="Icons/slack.svg"height="36" width="36" alt="slack logo"  />&nbsp;
   </a>
   <a href="https://www.behance.net/pixie27_ai" target="_blank">
-    <img src="Icons/behance.svg" height="36" width="36" alt="behance logo"  />
+    <img src="Icons/behance.svg" height="36" width="36" alt="behance logo"  />&nbsp;
   </a>
   <a href="https://medium.com/@vaishnavivaishnav00" target="_blank">
     <img src="Icons/Medium.svg" height="36" width="36" alt="medium logo"  />
