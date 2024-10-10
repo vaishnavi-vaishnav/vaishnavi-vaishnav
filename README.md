@@ -1,11 +1,5 @@
-
-
-   <img align="center" width="900" height = "400" src="GitHub%20Hello%20Gif.gif">
-   ![](https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png)
-<p align="center"><samp><b><strong> Hey there!</strong> 
-   <img src="https://raw.githubusercontent.com/himanshusharma89/himanshusharma89/master/Hi.gif" width="25px">
-</b></samp></p>
-<p align="center"><h1 align="center"><samp> I'm Vaishnavi Vaishnav</samp></h1></p>
+<img align="center" src="GitHub%20Hello%20Gif1.gif">
+<p align="center"><h1 align="center"><samp> Hey there!<img src="https://raw.githubusercontent.com/himanshusharma89/himanshusharma89/master/Hi.gif" width="25px"> I'm Vaishnavi Vaishnav</samp></h1></p>
 
 
 <p align="center">
