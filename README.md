@@ -120,10 +120,10 @@
   <a href="https://linktr.ee/pixie27.ai">
     <img alt="linktree" title="linktree" height="36" width="36" src="Icons/linktree.svg">&nbsp;
   </a>
-  <a href="mailto:vaishnavi.vaishnav027@gmail.com">
+  <a href="mailto:vaishnavivaishnav0000@gmail.com">
     <img alt="Gmail" title="Gmail" height="36" width="36" src="Icons/gmail.svg">&nbsp;
   </a>
-  <a href="https://www.instagram.com/pixie27.ai/">
+  <a href="https://www.instagram.com/nerd.coder/">
     <img alt="Instagram" title="Instagram" height="36" width="36" src="Icons/instagram.svg">&nbsp;
   </a>
   <a href="https://www.github.com/vaishnavi-vaishnav">
