@@ -88,6 +88,7 @@
 
 <div align="center">
   <h2><b><samp>GitHub Profile</samp></b></h2>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=vaishnavi-vaishnav&theme=onedark&row=1&margin-w=15&margin-h=15">
   
   ![Vaishnavi's github trophy](https://github-profile-trophy.vercel.app/?username=vaishnavi-vaishnav&theme=onedark&row=1&margin-w=15&margin-h=15)
 </div>
