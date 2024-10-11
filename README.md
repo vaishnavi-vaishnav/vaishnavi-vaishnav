@@ -125,8 +125,8 @@
   <a href="https://www.github.com/vaishnavi-vaishnav">
     <img alt="GitHub" title="GitHub" height="36" width="36" src="Icons/github.svg">&nbsp;
   </a>
-  <a href="https://app.slack.com/client/T6M8YKEBA/D07BBGP2N3X" target="_blank">
-    <img src="Icons/slack.svg"height="36" width="36" alt="slack logo"  />&nbsp;
+  <a href="https://app.slack.com/client/T6M8YKEBA/D07BBGP2N3X">
+    <img alt="Slack" title="Slack" height="36" width="36" src="Icons/slack.svg">&nbsp;
   </a>
   <a href="https://www.behance.net/pixie27_ai" target="_blank">
     <img src="Icons/behance.svg" height="36" width="36" alt="behance logo"  />&nbsp;
