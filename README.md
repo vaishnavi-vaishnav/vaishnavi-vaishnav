@@ -149,8 +149,8 @@
 <br>
 <div align="center">
 <!-- ![Downloads](https://img.shields.io/github/downloads/vaishnavi-vaishnav/vaishnavi-vaishnav/total.svg) ![Profile views](https://gpvc.arturio.dev/vaishnavi-vaishnav) ![Forks](https://img.shields.io/github/forks/vaishnavi-vaishnav/vaishnavi-vaishnav.svg)<br> -->
-  <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love" />
-  <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask Me Anything" />
+  <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love" /><br>
+  <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask Me Anything" /><br>
   <img src="https://img.shields.io/badge/Thanks-ff69b4.svg" alt="saythanks"  />
   <!--
 ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)<br>
